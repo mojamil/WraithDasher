@@ -8281,3 +8281,25 @@ Make sure 'BP_BaseGun' has been compiled for  Set ParentGun
 [2022.04.26-16.49.10:174][268]LogPlayLevel: Display: Destroying online subsystem :Context_124
 [2022.04.26-16.49.14:988][589]LogSlate: Window 'Save Asset As' being destroyed
 [2022.04.26-16.49.16:875][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.04.26-17.48.47:832][551]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-17.48.47:839][551]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-17.48.47:839][551]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-17.48.53:213][567]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-21.42.14:392][567]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-21.42.14:392][567]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-21.42.17:789][568]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.26-21.42.17:863][568]LogAudioMixer: Resetting audio stream to device id 
+[2022.04.26-21.42.18:080][568]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-21.42.18:080][568]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-21.42.18:236][569]LogHttp: Warning: 0000023E99F0C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B991CCAA6-47EE-D383-7AF0-88A33E121CB0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d775673f43962c0efb915ea9e983bf81%7Cb1b3349d172146e99947c11134818fca%7C7e91244e-436e-43e1-b85c-e874b99ca47a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.26-21.42.18:238][569]LogHttp: Warning: 0000023E99F0C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.04.26-21.42.18:238][569]LogHttp: Warning: 0000023E99F0C100: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2022.04.26-21.42.18:238][569]LogHttp: Warning: 0000023E99F0C100: libcurl info message cache 1 (Closing connection 0)
+[2022.04.26-21.42.18:238][569]LogHttp: Warning: 0000023E99F0C100: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.04.26-21.42.18:238][569]LogHttp: Warning: 0000023E99F0C100: libcurl info message cache 3 (Closing connection 1)
+[2022.04.26-21.42.18:303][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.04.26-21.42.18:304][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B991CCAA6-47EE-D383-7AF0-88A33E121CB0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d775673f43962c0efb915ea9e983bf81%7Cb1b3349d172146e99947c11134818fca%7C7e91244e-436e-43e1-b85c-e874b99ca47a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.26-21.42.19:272][572]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.04.26-21.42.19:272][572]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.04.26-21.42.19:272][572]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.04.26-21.42.19:298][572]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
