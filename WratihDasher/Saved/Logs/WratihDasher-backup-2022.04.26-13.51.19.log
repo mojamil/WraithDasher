@@ -1,0 +1,1453 @@
+﻿Log file open, 04/26/22 07:51:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WratihDasher
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.530553
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.26-12.51.36:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.26-12.51.36:749][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:749][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:773][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.26-12.51.36:773][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.26-12.51.36:774][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.26-12.51.36:774][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.26-12.51.36:775][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.26-12.51.36:775][  0]LogHAL: Display: Platform has ~ 32 GB [34271727616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.26-12.51.36:775][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.26-12.51.36:775][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.26-12.51.36:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Scalability.ini]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.26-12.51.36:776][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.26-12.51.36:780][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.26-12.51.36:780][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.26-12.51.36:780][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.26-12.51.36:780][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Engine.ini]
+[2022.04.26-12.51.36:780][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Config/Windows/Editor.ini]
+[2022.04.26-12.51.36:780][  0]LogInit: Computer: DESKTOP-2L14GO6
+[2022.04.26-12.51.36:780][  0]LogInit: User: drago
+[2022.04.26-12.51.36:780][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.04.26-12.51.36:780][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.26-12.51.36:781][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.04.26-12.51.36:781][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.26-12.51.36:781][  0]LogMemory: Process Physical Memory: 150.33 MB used, 150.33 MB peak
+[2022.04.26-12.51.36:781][  0]LogMemory: Process Virtual Memory: 131.50 MB used, 131.50 MB peak
+[2022.04.26-12.51.36:781][  0]LogMemory: Physical Memory: 14175.40 MB used,  18508.66 MB free, 32684.07 MB total
+[2022.04.26-12.51.36:781][  0]LogMemory: Virtual Memory: 134197856.00 MB used,  19870.13 MB free, 134217728.00 MB total
+[2022.04.26-12.51.36:788][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.26-12.51.36:966][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.26-12.51.36:967][  0]LogInit: Using OS detected language (en-GB).
+[2022.04.26-12.51.36:967][  0]LogInit: Using OS detected locale (en-CA).
+[2022.04.26-12.51.36:981][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.04.26-12.51.37:232][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.26-12.51.37:265][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.26-12.51.37:313][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.26-12.51.37:313][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.26-12.51.38:750][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.26-12.51.38:754][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.26-12.51.38:754][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.26-12.51.38:754][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.26-12.51.38:754][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.26-12.51.38:807][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2022.04.26-12.51.38:807][  0]LogD3D11RHI:       8151/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     Description : AMD Radeon RX 5700 XT
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     DeviceId    : 731f
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     SubSysId    : 2398148c
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     Revision    : 00c1
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     DedicatedVideoMemory : 8547471360 bytes
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     SharedSystemMemory : 17135863808 bytes
+[2022.04.26-12.51.38:810][  0]LogD3D11RHI:     AdapterLuid : 0 74353
+[2022.04.26-12.51.38:819][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.26-12.51.38:819][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2022.04.26-12.51.38:819][  0]LogWindows: EnumDisplayDevices:
+[2022.04.26-12.51.38:819][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:0 D:1)
+[2022.04.26-12.51.38:819][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2022.04.26-12.51.38:819][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.26-12.51.38:820][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.26-12.51.38:820][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.26-12.51.38:820][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.26-12.51.38:820][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.26-12.51.38:820][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.04.26-12.51.38:820][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2022.04.26-12.51.38:820][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.4.1 (internal:30.0.15021.1001, unified:30.0.15021.1001)
+[2022.04.26-12.51.38:820][  0]LogD3D11RHI:      Driver Date: 3-31-2022
+[2022.04.26-12.51.38:821][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     Description : AMD Radeon RX 5700 XT
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     DeviceId    : 731f
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     SubSysId    : 2398148c
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     Revision    : 00c1
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     DedicatedVideoMemory : 8547471360 bytes
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     SharedSystemMemory : 17135863808 bytes
+[2022.04.26-12.51.38:829][  0]LogD3D11RHI:     AdapterLuid : 0 74353
+[2022.04.26-12.51.38:880][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.04.26-12.51.38:880][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.26-12.51.38:880][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.26-12.51.38:880][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.26-12.51.38:901][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.04.26-12.51.39:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.26-12.51.39:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.26-12.51.39:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.26-12.51.39:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.26-12.51.39:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.26-12.51.39:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.26-12.51.39:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.26-12.51.39:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.26-12.51.39:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.26-12.51.39:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.26-12.51.39:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.26-12.51.39:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.26-12.51.39:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.26-12.51.39:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.26-12.51.39:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.26-12.51.39:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.26-12.51.39:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.26-12.51.39:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.26-12.51.39:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.26-12.51.39:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.26-12.51.39:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.26-12.51.39:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.26-12.51.39:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.26-12.51.39:648][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.26-12.51.39:703][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.26-12.51.39:850][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.26-12.51.40:035][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.26-12.51.40:037][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Intermediate/Shaders/WorkingDirectory/12912/).
+[2022.04.26-12.51.40:037][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/drago/AppData/Local/Temp/UnrealShaderWorkingDir/7AEDB55246CEE8CEB0FE60BF64E9CDE1/'.
+[2022.04.26-12.51.40:037][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.26-12.51.40:037][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.26-12.51.40:037][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.26-12.51.42:875][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.26-12.51.42:944][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/drago/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.26-12.51.42:944][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/drago/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.26-12.51.42:944][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.26-12.51.42:944][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.26-12.51.42:944][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.26-12.51.42:944][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.26-12.51.42:965][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.26-12.51.42:965][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.26-12.51.42:965][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.26-12.51.42:990][  0]LogDerivedDataCache: Speed tests for C:/Users/drago/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.04.26-12.51.42:990][  0]LogDerivedDataCache: Display: Performance to C:/Users/drago/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=45.30MBs, RandomWriteSpeed=267.13MBs. Assigned SpeedClass 'Local'
+[2022.04.26-12.51.42:991][  0]LogDerivedDataCache: Using Local data cache path C:/Users/drago/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.26-12.51.42:991][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.26-12.51.42:991][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.26-12.51.43:035][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.26-12.51.43:040][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.26-12.51.43:126][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2022.04.26-12.51.43:398][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.26-12.51.43:399][  0]LogInit: Active device profile: [00000204CD438900][00000204C8EB8800 49] Windows
+[2022.04.26-12.51.43:399][  0]LogInit: Profiles: [00000204CD438900][00000204C8EB8800 49] Windows, [00000204CD3F7300][00000204CB13C940 49] WindowsNoEditor, [00000204CD43B500][00000204C8F74A80 49] WindowsServer, [00000204CD3F7D00][00000204C8F78BC0 49] WindowsClient, [00000204CD43B800][00000204C8F80D40 49] IOS, [00000204CD3F6300][00000204C8F84EC0 49] iPadAir, [00000204CD43A000][00000204C8F89040 49] iPadAir2, [00000204CD39CA00][00000204C8F91300 49] IPadPro, [00000204CD39CB00][00000204C8F8D340 49] iPadAir3, [00000204CD3F5400][00000204C8F954C0 49] iPadAir4, [00000204CD39F400][00000204C8F99640 49] iPadMini2, [00000204CD3F6500][00000204C8F9D7C0 49] iPadMini3, [00000204CD39D700][00000204C8FA1940 49] iPadMini4, [00000204CD439100][00000204C8FA5AC0 49] iPadMini5, [00000204CD3CC300][00000204C8FAC200 49] iPhone6, [00000204CD3CC400][00000204C8FA8240 49] iPodTouch6, [00000204CD39F600][00000204C8FB4500 49] iPhone7, [00000204CD39D800][00000204C8FB0540 49] iPodTouch7, [00000204CD3CFF00][00000204C8FB86C0 49] iPhone5S, [00000204CD3F5D00][00000204C8FBC840 49] iPhone6Plus, [00000204CD39C200][00000204C8F7C980 49] iPhone6S, [00000204CD3F5F00][00000204C8FC0AC0 49] iPhone6SPlus, [00000204CD39FC00][00000204C8FC4C00 49] iPhone7Plus, [00000204CD3F4300][00000204CA0B0D40 49] iPhoneSE, [00000204CD39F500][00000204CA0B8EC0 49] iPhone8, [00000204CD3F5900][00000204CA0BD040 49] iPhone8Plus, [00000204CD39D100][00000204CA0C11C0 49] iPhoneX, [00000204CD3F4400][00000204CA0C5340 49] iPhoneXS, [00000204CD39D300][00000204CA0C94C0 49] iPhoneXSMax, [00000204CD3F4F00][00000204CA0CD640 49] iPhoneXR, [00000204CD39F800][00000204CA0D17C0 49] iPhone11, [00000204CD3F6900][00000204CA0D5940 49] iPhone11Pro, [00000204CD39F700][00000204CA0D9AC0 49] iPhone11ProMax, [00000204CD3F7C00][00000204CA0DC0C0 49] iPhoneSE2, [00000204CD39EE00][00000204CA0E0240 49] iPhone12Mini, [00000204CD3F7700][00000204CA0E43C0 49] iPhone12, [00000204CD39E400][00000204CA0E8540 49] iPhone12Pro, [00000204CD3F4700][00000204CA0EC6C0 49] iPhone12ProMax, [00000204CD39E300][00000204CA0F0840 49] iPadPro105, [00000204CD3F6C00][00000204CA0F49C0 49] iPadPro129, [00000204CD39E200][00000204CA0F8B40 49] iPadPro97, [00000204CD3F4B00][00000204CA0B4C80 49] iPadPro2_129, [00000204CD39F200][00000204CA0FCDC0 49] iPad5, [00000204CD3F6F00][00000204CA100F00 49] iPad6, [00000204CD39F300][00000204CE151080 49] iPad7, [00000204CD3F4200][00000204CE155200 49] iPad8, [00000204CD39DA00][00000204CE159380 49] iPadPro11, [00000204CD3F5100][00000204CE15D500 49] iPadPro2_11, [00000204CD39DD00][00000204CE161680 49] iPadPro3_129, [00000204CD3F7400][00000204CE165800 49] iPadPro4_129, [00000204CD39F000][00000204CE169980 49] AppleTV, [00000204CD3F7A00][00000204CE16DB00 49] AppleTV4K, [00000204CD39C100][00000204CE170100 49] TVOS, [00000204CD3F6000][00000204CE174280 49] Mac, [00000204CD39FB00][00000204CE178400 49] MacClient, [00000204CD3F5600][00000204CE17C580 49] MacNoEditor, [00000204CD39EC00][00000204CE180700 49] MacServer, [00000204CD3F4A00][00000204CE184880 49] Linux, [00000204CD39E000][00000204CE188A00 49] LinuxAArch64, [00000204CD3F6200][00000204CE18CB80 49] LinuxNoEditor, [00000204CD39E500][00000204CE190D00 49] LinuxAArch64NoEditor, [00000204CD3F5000][00000204CA104E40 49] LinuxClient, [00000204CD39F900][00000204CE194F80 49] LinuxAArch64Client, [00000204CD3F5200][00000204CE1990C0 49] LinuxServer, [00000204CD39D900][00000204CE1A1240 49] LinuxAArch64Server, [00000204CD3F7200][00000204CE1A53C0 49] Android, [00000204CD39C600][00000204CE1A9540 49] Android_Low, [00000204CD3F6800][00000204CE1AD6C0 49] Android_Mid, [00000204CD43BA00][00000204CE1B1840 49] Android_High, [00000204CD3CDC00][00000204CE1B59C0 49] Android_Default, [00000204CD43A100][00000204CE1B9B40 49] Android_Adreno4xx, [00000204CD3CE700][00000204CE1BC140 49] Android_Adreno5xx_Low, [00000204CD438A00][00000204CE1C02C0 49] Android_Adreno5xx, [00000204CD3CED00][00000204CE1C4440 49] Android_Adreno6xx, [00000204CD439200][00000204CE1C85C0 49] Android_Adreno6xx_Vulkan, [00000204CD3CE800][00000204CE1CC740 49] Android_Mali_T6xx, [00000204CD43A600][00000204CE1D08C0 49] Android_Mali_T7xx, [00000204CD3CEE00][00000204CE1D4A40 49] Android_Mali_T8xx, [00000204CD43B200][00000204CE1D8BC0 49] Android_Mali_G71, [00000204CD3CFC00][00000204CE1DCD40 49] Android_Mali_G72, [00000204CD43AA00][00000204CE1E0EC0 49] Android_Mali_G72_Vulkan, [00000204CD3CDB00][00000204CE19D000 49] Android_Mali_G76, [00000204CD439A00][00000204CE1E5140 49] Android_Mali_G76_Vulkan, [00000204CD3CE000][00000204CE1E9280 49] Android_Mali_G77, [00000204CD43AD00][00000204CE1ED3C0 49] Android_Mali_G77_Vulkan, [00000204CD3CF800][00000204CE1F5540 49] Android_Mali_G78, [00000204CD43A800][00000204CE1F96C0 49] Android_Mali_G78_Vulkan, [00000204CD3CD200][00000204CE1FD840 49] Android_Mali_G710, [00000204CD438E00][00000204CE2019C0 49] Android_Mali_G710_Vulkan, [00000204CD3CF500][00000204CE205B40 49] Android_Vulkan_SM5, [00000204CD43B400][00000204CE208140 49] Android_PowerVR_G6xxx, [00000204CD3CEC00][00000204CE20C2C0 49] Android_PowerVR_GT7xxx, [00000204CD43BC00][00000204CE210440 49] Android_PowerVR_GE8xxx, [00000204CD3CCE00][00000204CE2145C0 49] Android_PowerVR_GM9xxx, [00000204CD439800][00000204CE218740 49] Android_PowerVR_GM9xxx_Vulkan, [00000204CD3CE400][00000204CE21C8C0 49] Android_TegraK1, [00000204CD439000][00000204CE220A40 49] Android_Unknown_Vulkan, [00000204CD3F7500][00000204CE224BC0 49] Lumin, [00000204CD439E00][00000204CE228D40 49] Lumin_Desktop, [00000204CD3F5700][00000204CE22CEC0 49] HoloLens, 
+[2022.04.26-12.51.43:690][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.26-12.51.43:690][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.26-12.51.43:690][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.26-12.51.43:690][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.26-12.51.43:690][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.26-12.51.43:734][  0]LogNetVersion: WratihDasher 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 592810863)
+[2022.04.26-12.51.44:941][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.26-12.51.45:019][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.26-12.51.45:025][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.04.26-12.51.45:025][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.04.26-12.51.45:025][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.26-12.51.46:144][  0]LogPython: Using Python 3.7.7
+[2022.04.26-12.51.46:738][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F3825B484D8B1CAEE88EA88A9CB2CAAF | Instance: 325092C54828CC38F248BBACE6344703 (DESKTOP-2L14GO6-12912).
+[2022.04.26-12.51.46:951][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.26-12.51.46:966][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.26-12.51.47:497][  0]SourceControl: Source control is disabled
+[2022.04.26-12.51.47:497][  0]SourceControl: Source control is disabled
+[2022.04.26-12.51.47:522][  0]SourceControl: Source control is disabled
+[2022.04.26-12.51.47:545][  0]SourceControl: Source control is disabled
+[2022.04.26-12.51.47:560][  0]SourceControl: Source control is disabled
+[2022.04.26-12.51.47:581][  0]LogUProjectInfo: Found projects:
+[2022.04.26-12.51.48:325][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.26-12.51.48:486][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.26-12.51.48:572][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.26-12.51.48:572][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.26-12.51.48:891][  0]LogCollectionManager: Loaded 0 collections in 0.001582 seconds
+[2022.04.26-12.51.48:947][  0]LogFileCache: Scanning file cache for directory 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Collections/' took 0.00s
+[2022.04.26-12.51.48:947][  0]LogFileCache: Scanning file cache for directory 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/Developers/drago/Collections/' took 0.00s
+[2022.04.26-12.51.48:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/Collections/' took 0.00s
+[2022.04.26-12.51.48:948][  0]LogOcInput: OculusInput pre-init called
+[2022.04.26-12.51.49:256][  0]LogEngine: Initializing Engine...
+[2022.04.26-12.51.49:272][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.04.26-12.51.49:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.26-12.51.49:272][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.26-12.51.49:274][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.26-12.51.49:453][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.26-12.51.49:482][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.26-12.51.49:485][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.26-12.51.49:496][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.26-12.51.49:497][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.26-12.51.49:498][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.26-12.51.49:498][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-12.51.49:499][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-12.51.49:499][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-12.51.49:499][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-12.51.49:499][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-12.51.49:499][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-12.51.49:539][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-12.51.49:539][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-12.51.49:552][  0]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.04.26-12.51.49:553][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-12.51.49:564][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-12.51.49:564][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-12.51.49:565][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-12.51.49:565][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-12.51.49:565][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-12.51.49:566][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-12.51.49:566][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-12.51.49:566][  0]LogInit: FAudioDevice initialized.
+[2022.04.26-12.51.49:566][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.26-12.51.49:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.26-12.51.49:621][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/drago/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.26-12.51.49:624][  0]LogInit: Texture streaming: Enabled
+[2022.04.26-12.51.49:657][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.04.26-12.51.49:669][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.26-12.51.49:669][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.26-12.51.49:672][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.26-12.51.49:715][  0]LogInit: Transaction tracking system initialized
+[2022.04.26-12.51.49:790][  0]BlueprintLog: New page: Editor Load
+[2022.04.26-12.51.50:012][  0]LocalizationService: Localization service is disabled
+[2022.04.26-12.51.50:117][  0]TimingProfiler: Initialize
+[2022.04.26-12.51.50:118][  0]TimingProfiler: OnSessionChanged
+[2022.04.26-12.51.50:118][  0]LoadingProfiler: Initialize
+[2022.04.26-12.51.50:119][  0]LoadingProfiler: OnSessionChanged
+[2022.04.26-12.51.50:119][  0]NetworkingProfiler: Initialize
+[2022.04.26-12.51.50:119][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.26-12.51.50:119][  0]MemoryProfiler: Initialize
+[2022.04.26-12.51.50:119][  0]MemoryProfiler: OnSessionChanged
+[2022.04.26-12.51.50:476][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.26-12.51.50:476][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.26-12.51.51:055][  0]LogFileCache: Scanning file cache for directory 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/' took 0.02s
+[2022.04.26-12.51.51:215][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.26-12.51.51:219][  0]SourceControl: Source control is disabled
+[2022.04.26-12.51.51:220][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.493
+[2022.04.26-12.51.51:220][  0]Cmd: MAP LOAD FILE="../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.26-12.51.51:222][  0]LightingResults: New page: Lighting Build
+[2022.04.26-12.51.51:225][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-12.51.51:225][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-12.51.51:226][  0]MapCheck: New page: Map Check
+[2022.04.26-12.51.51:226][  0]LightingResults: New page: Lighting Build
+[2022.04.26-12.51.51:250][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-12.51.51:254][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.26-12.51.51:688][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-12.51.51:689][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-12.51.51:707][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.26-12.51.51:735][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.26-12.51.51:737][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.26-12.51.51:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.308ms to complete.
+[2022.04.26-12.51.51:737][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.517
+[2022.04.26-12.51.51:743][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.017
+[2022.04.26-12.51.51:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-12.51.51:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-12.51.51:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-12.51.51:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-12.51.51:930][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3822 classes and 928 folders.
+[2022.04.26-12.51.51:948][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.26-12.51.51:957][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.26-12.51.51:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.26-12.51.51:957][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:957][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.04.26-12.51.51:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.04.26-12.51.51:960][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.26-12.51.51:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.26-12.51.51:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.04.26-12.51.51:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.04.26-12.51.51:963][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.26-12.51.51:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.26-12.51.51:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:963][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.04.26-12.51.51:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.04.26-12.51.51:965][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.26-12.51.51:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.26-12.51.51:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.04.26-12.51.51:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.04.26-12.51.51:967][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.26-12.51.51:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.26-12.51.51:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:967][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.04.26-12.51.51:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.04.26-12.51.51:969][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.26-12.51.51:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.26-12.51.51:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.04.26-12.51.51:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.04.26-12.51.51:972][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.26-12.51.51:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.26-12.51.51:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.04.26-12.51.51:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.04.26-12.51.51:974][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.26-12.51.51:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.26-12.51.51:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.04.26-12.51.51:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.04.26-12.51.51:978][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.26-12.51.51:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.26-12.51.51:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.04.26-12.51.51:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.26-12.51.51:981][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.26-12.51.51:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.26-12.51.51:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.04.26-12.51.51:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.04.26-12.51.51:983][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.26-12.51.51:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.26-12.51.51:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.04.26-12.51.51:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.26-12.51.51:986][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.26-12.51.51:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.26-12.51.51:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.04.26-12.51.51:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.04.26-12.51.51:988][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.26-12.51.51:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.26-12.51.51:988][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:988][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.04.26-12.51.51:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.04.26-12.51.51:991][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.26-12.51.51:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.26-12.51.51:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.04.26-12.51.51:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.04.26-12.51.51:993][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.26-12.51.51:993][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:993][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.26-12.51.51:993][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:993][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.04.26-12.51.51:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.04.26-12.51.51:997][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.26-12.51.51:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.26-12.51.51:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.04.26-12.51.51:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.04.26-12.51.51:999][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.26-12.51.51:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.51:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.26-12.51.51:999][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.51:999][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.04.26-12.51.51:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.04.26-12.51.52:002][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.26-12.51.52:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.26-12.51.52:002][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:002][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.04.26-12.51.52:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.04.26-12.51.52:004][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.26-12.51.52:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.26-12.51.52:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.04.26-12.51.52:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.04.26-12.51.52:007][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.26-12.51.52:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.26-12.51.52:007][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:007][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.04.26-12.51.52:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.26-12.51.52:009][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.26-12.51.52:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.26-12.51.52:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.04.26-12.51.52:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.26-12.51.52:011][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.26-12.51.52:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.26-12.51.52:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.04.26-12.51.52:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.04.26-12.51.52:014][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.26-12.51.52:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.26-12.51.52:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.04.26-12.51.52:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.04.26-12.51.52:016][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.26-12.51.52:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.26-12.51.52:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.04.26-12.51.52:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.04.26-12.51.52:019][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.26-12.51.52:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.26-12.51.52:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.04.26-12.51.52:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.04.26-12.51.52:022][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.26-12.51.52:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.26-12.51.52:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.26-12.51.52:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.26-12.51.52:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.04.26-12.51.52:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.04.26-12.51.52:319][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.26-12.51.52:322][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.04.26-12.51.52:451][  0]LogSlate: Took 0.002529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.26-12.51.52:455][  0]LogSlate: Took 0.002463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.26-12.51.52:460][  0]LogSlate: Took 0.002869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.26-12.51.52:559][  0]LogRenderer: Reallocating scene render targets to support 1188x568 Format 10 NumSamples 1 (Frame:1).
+[2022.04.26-12.51.53:143][  0]LogSlate: Took 0.002733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.26-12.51.53:265][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.26-12.51.53:265][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.04.26-12.51.53:265][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.04.26-12.51.53:265][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.04.26-12.51.53:265][  0]LogLoad: (Engine Initialization) Total time: 19.54 seconds
+[2022.04.26-12.51.53:265][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.26-12.51.53:328][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.26-12.51.53:353][  1]LogAssetRegistry: Asset discovery search completed in 10.2279 seconds
+[2022.04.26-12.51.53:369][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.04.26-13.14.19:771][829]LogSlate: Took 0.002480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.26-13.18.35:196][817]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.26-13.18.35:213][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.26-13.18.35:637][817]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.04.26-13.18.36:465][817]LogSlate: Took 0.002699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.26-13.18.37:631][892]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.04.26-13.23.52:041][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.04.26-13.24.46:352][933]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-13.25.01:365][616]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.04.26-13.25.01:404][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.26-13.25.01:465][616]LogSlate: Took 0.002376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.26-13.25.02:144][687]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-13.25.02:149][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-13.25.02:149][687]PIE: New page: PIE session: ThirdPersonExampleMap (Apr. 26, 2022, 3:25:02 a.m.)
+[2022.04.26-13.25.02:150][687]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.26-13.25.02:152][687]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.26-13.25.02:152][687]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-13.25.02:163][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010386s)
+[2022.04.26-13.25.02:164][687]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-13.25.02:164][687]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2022.04.26-13.25.02:164][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011707s)
+[2022.04.26-13.25.02:179][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.26-13.25.02:180][687]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-13.25.02:180][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-13.25.02:180][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-13.25.02:180][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-13.25.02:180][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-13.25.02:180][687]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-13.25.02:185][687]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-13.25.02:185][687]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-13.25.02:191][687]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.04.26-13.25.02:191][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-13.25.02:191][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-13.25.02:191][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-13.25.02:192][687]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-13.25.02:192][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-13.25.02:192][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-13.25.02:193][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-13.25.02:193][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-13.25.02:193][687]LogInit: FAudioDevice initialized.
+[2022.04.26-13.25.02:193][687]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-13.25.02:228][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-13.25.02:233][687]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-13.25.02:238][687]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.26-08.25.02
+[2022.04.26-13.25.02:239][687]LogWorld: Bringing up level for play took: 0.002834
+[2022.04.26-13.25.02:240][687]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.04.26-13.25.02:251][687]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.26-13.25.02:257][687]PIE: Server logged in
+[2022.04.26-13.25.02:259][687]PIE: Play in editor total start time 0.111 seconds.
+[2022.04.26-13.25.02:297][688]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.04.26-13.25.07:189][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-13.25.07:189][231]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-13.25.07:189][231]LogSlate: Window 'WratihDasher Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.26-13.25.07:196][231]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.25.07:197][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.25.07:206][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-13.25.07:209][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.25.07:225][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-13.25.07:230][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-13.25.07:231][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-13.25.07:255][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.04.26-13.25.07:275][232]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.26-13.25.10:241][525]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WBP_Reticle.WBP_Reticle
+[2022.04.26-13.25.30:813][810]BlueprintLog: New page: Compile WBP_Reticle
+[2022.04.26-13.25.30:874][810]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2022.04.26-13.25.32:188][943]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-13.25.32:192][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-13.25.32:193][943]PIE: New page: PIE session: ThirdPersonExampleMap (Apr. 26, 2022, 3:25:32 a.m.)
+[2022.04.26-13.25.32:193][943]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-13.25.32:200][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007512s)
+[2022.04.26-13.25.32:202][943]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-13.25.32:202][943]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2022.04.26-13.25.32:202][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009145s)
+[2022.04.26-13.25.32:228][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.04.26-13.25.32:229][943]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-13.25.32:229][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-13.25.32:229][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-13.25.32:229][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-13.25.32:229][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-13.25.32:229][943]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-13.25.32:233][943]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-13.25.32:233][943]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-13.25.32:239][943]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.04.26-13.25.32:239][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-13.25.32:239][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-13.25.32:239][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-13.25.32:240][943]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-13.25.32:240][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-13.25.32:240][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-13.25.32:241][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-13.25.32:241][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-13.25.32:241][943]LogInit: FAudioDevice initialized.
+[2022.04.26-13.25.32:241][943]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-13.25.32:267][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-13.25.32:267][943]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-13.25.32:270][943]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.26-08.25.32
+[2022.04.26-13.25.32:270][943]LogWorld: Bringing up level for play took: 0.001623
+[2022.04.26-13.25.32:270][943]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.04.26-13.25.32:274][943]PIE: Server logged in
+[2022.04.26-13.25.32:275][943]PIE: Play in editor total start time 0.083 seconds.
+[2022.04.26-13.25.34:679][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-13.25.34:679][216]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-13.25.34:679][216]LogSlate: Window 'WratihDasher Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.26-13.25.34:686][216]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.25.34:686][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.25.34:694][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-13.25.34:700][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.25.34:724][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-13.25.34:724][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-13.25.34:725][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-13.25.34:730][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.04.26-13.25.34:744][217]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.26-13.25.38:699][674]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-13.25.38:704][674]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.26-13.25.38:705][674]LogPlayLevel: [PlayLevel] Compiling WBP_Reticle before play...
+[2022.04.26-13.25.38:790][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.04.26-13.25.38:791][674]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (1 blueprints)
+[2022.04.26-13.25.38:791][674]PIE: New page: PIE session: ThirdPersonExampleMap (Apr. 26, 2022, 3:25:38 a.m.)
+[2022.04.26-13.25.38:791][674]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-13.25.38:798][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007449s)
+[2022.04.26-13.25.38:799][674]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-13.25.38:799][674]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2022.04.26-13.25.38:799][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008555s)
+[2022.04.26-13.25.38:826][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.04.26-13.25.38:826][674]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-13.25.38:826][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-13.25.38:826][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-13.25.38:827][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-13.25.38:827][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-13.25.38:827][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-13.25.38:827][674]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-13.25.38:831][674]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-13.25.38:831][674]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-13.25.38:836][674]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.04.26-13.25.38:836][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-13.25.38:836][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-13.25.38:836][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-13.25.38:837][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-13.25.38:837][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-13.25.38:837][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-13.25.38:837][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-13.25.38:837][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-13.25.38:837][674]LogInit: FAudioDevice initialized.
+[2022.04.26-13.25.38:837][674]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-13.25.38:864][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-13.25.38:864][674]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-13.25.38:866][674]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.26-08.25.38
+[2022.04.26-13.25.38:866][674]LogWorld: Bringing up level for play took: 0.001332
+[2022.04.26-13.25.38:866][674]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.26-13.25.38:869][674]PIE: Server logged in
+[2022.04.26-13.25.38:869][674]PIE: Play in editor total start time 0.167 seconds.
+[2022.04.26-13.25.42:348][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-13.25.42:348][ 66]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-13.25.42:349][ 66]LogSlate: Window 'WratihDasher Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.26-13.25.42:358][ 66]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.25.42:359][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.25.42:367][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-13.25.42:374][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.25.42:396][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-13.25.42:397][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-13.25.42:403][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.04.26-13.25.42:425][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.26-13.26.14:563][484]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.04.26-13.26.14:563][484]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/Developers/drago/Collections/' because it could not be accessed. Aborting watch request...
+[2022.04.26-13.26.14:897][485]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.04.26-13.26.47:814][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.04.26-13.26.47:843][583]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/ThirdPersonExampleMap_Auto16161106F432DE75EE9B158A922371F01.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.04.26-13.26.47:845][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.060
+[2022.04.26-13.26.47:845][583]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2022.04.26-13.26.47:845][583]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.04.26-13.26.47:876][583]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2022.04.26-13.26.47:887][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.04.26-13.26.47:887][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.04.26-13.26.47:928][583]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/ThirdPersonCharacter_Auto17E59FB2643A9D0FC5779BAA1BC5D3E82.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2022.04.26-13.26.47:929][583]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/WBP_Reticle] ([2] browsable assets)...
+[2022.04.26-13.26.47:929][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/WBP_Reticle]
+[2022.04.26-13.26.47:933][583]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/WBP_Reticle_Auto1420CE9D8472EB0211A7B639CF8C7952D.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WBP_Reticle_Auto1.uasset'
+[2022.04.26-13.26.47:934][583]LogFileHelpers: Auto-saving content packages took 0.089
+[2022.04.26-13.29.07:753][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:753][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.07:754][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:754][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:754][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.07:754][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:754][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.07:754][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:754][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:754][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.07:755][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:755][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.07:755][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.07:755][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.07:851][792]LogBlueprint: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] InputAction Event references unknown Action 'Shoot' for  InputAction Shoot
+[2022.04.26-13.29.07:851][792]LogBlueprint: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRateY' for  InputAxis MoveRateY
+[2022.04.26-13.29.07:852][792]LogBlueprint: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRateX' for  InputAxis MoveRateX
+[2022.04.26-13.29.07:852][792]LogBlueprint: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] InputAction Event references unknown Action 'PauseGame' for  InputAction PauseGame
+[2022.04.26-13.29.07:853][792]LogBlueprint: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveUp' for  InputAxis MoveUp
+[2022.04.26-13.29.08:001][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.08:001][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.08:001][792]LoadErrors: Failed to load /GLTFImporter/PerceivedBrightness.PerceivedBrightness Referenced by Bullet_045
+[2022.04.26-13.29.08:001][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.08:002][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.08:002][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.08:002][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.08:002][792]LoadErrors: Failed to load /GLTFImporter/SpecGlossToMetalRoughness.SpecGlossToMetalRoughness Referenced by Bullet_045
+[2022.04.26-13.29.08:003][792]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.08:003][792]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.08:003][792]LoadErrors: Failed to load /GLTFImporter/SpecGlossToMetalRoughness.SpecGlossToMetalRoughness Referenced by MaterialExpressionMaterialFunctionCall_0
+[2022.04.26-13.29.08:177][792]LogMaterial: Display: Missing cached shadermap for Bullet_045 in PCD3D_SM5, Default, SM5 (DDC key hash: BE99DC226B2600F50AD813E2F4DD6BA53CC052F5), compiling. 
+[2022.04.26-13.29.08:181][792]LogMaterial: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.26-13.29.08:181][792]LogMaterial: Display: 	Missing Material Function
+[2022.04.26-13.29.08:274][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.04.26-13.29.12:072][792]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.29.12:272][792]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/BP_Drone.BP_Drone
+[2022.04.26-13.29.13:403][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.04.26-13.29.13:430][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.04.26-13.29.13:455][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.26-13.29.14:618][887]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.04.26-13.29.15:411][887]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.29.15:549][887]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.04.26-13.29.15:927][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.04.26-13.29.15:975][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.04.26-13.29.16:002][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.04.26-13.29.16:025][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.26-13.29.19:424][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.04.26-13.29.20:296][168]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.29.20:335][168]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/DroneAIComponent.DroneAIComponent
+[2022.04.26-13.29.20:752][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.04.26-13.29.20:777][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.04.26-13.29.20:802][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.04.26-13.29.21:533][225]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.04.26-13.29.22:094][225]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.29.22:316][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.26-13.29.22:359][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.26-13.29.22:385][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.26-13.29.26:127][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\Bullet.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Drone': Can't find file.
+[2022.04.26-13.29.26:127][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\Bullet.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Drone': Can't find file.
+[2022.04.26-13.29.26:129][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\Bullet.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:129][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\Bullet.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:151][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\Bullet.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Drone': Can't find file.
+[2022.04.26-13.29.26:151][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\Bullet.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:153][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:153][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.26:153][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:153][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:153][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.26:153][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:154][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.26:154][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:154][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:154][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.26:154][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/PerceivedBrightness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:155][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/PerceivedBrightness': Can't find file.
+[2022.04.26-13.29.26:155][566]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/GLTFImporter/SpecGlossToMetalRoughness' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/AnimationSharing/', '/DatasmithContent/', '/MagicLeap/', '/ChaosNiagara/', '/ChaosSolverPlugin/', '/ChaosClothEditor/', '/MagicLeapPassableWorld/', '/GeometryCollectionPlugin/', '/GeometryMode/', '/GeometryProcessing/', '/SpeedTreeImporter/', '/PythonScriptPlugin/', '/MotoSynth/', '/Niagara/', '/MediaCompositing/', '/Takes/', '/AudioSynesthesia/', '/OpenXR/', '/OpenXREyeTracker/', '/PostSplashScreen/', '/OpenXRHandTracking/', '/Synthesis/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Extra/', '/Memory/', or '/Temp/'
+[2022.04.26-13.29.26:155][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Particles\Bullet_045_(HQ)\Materials\Bullet_045.uasset: Failed to load '/GLTFImporter/SpecGlossToMetalRoughness': Can't find file.
+[2022.04.26-13.29.26:155][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:156][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:161][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_TunnelSpawner.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Drone': Can't find file.
+[2022.04.26-13.29.26:161][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_TunnelSpawner.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:167][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_TunnelSpawner.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Drone': Can't find file.
+[2022.04.26-13.29.26:167][566]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Blueprints\BP_TunnelSpawner.uasset: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_Tunnel': Can't find file.
+[2022.04.26-13.29.26:198][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.04.26-13.29.28:213][566]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.29.28:250][566]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/GM_Tutorial.GM_Tutorial
+[2022.04.26-13.29.28:661][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.26-13.29.28:687][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.04.26-13.29.28:711][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.26-13.29.30:548][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.04.26-13.29.31:183][720]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.29.31:344][720]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2022.04.26-13.29.31:751][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.04.26-13.29.31:778][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.26-13.29.31:804][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.26-13.29.32:503][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_BaseGun.BP_BaseGun
+[2022.04.26-13.30.06:914][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:915][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:915][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/GM_Tutorial': Can't find file.
+[2022.04.26-13.30.06:915][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/GM_Tutorial': Can't find file.
+[2022.04.26-13.30.06:916][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:916][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/GM_Tutorial': Can't find file.
+[2022.04.26-13.30.06:917][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:917][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:917][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/GM_Tutorial': Can't find file.
+[2022.04.26-13.30.06:917][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:918][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/GM_Tutorial': Can't find file.
+[2022.04.26-13.30.06:918][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:918][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:918][ 65]LogLinker: Warning: Failed to load '/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner': Can't find file.
+[2022.04.26-13.30.06:920][ 65]LogLinker: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\InfiniteMatrix\Maps\Game.umap: Failed to load '/Game/InfiniteMatrix/Blueprints/GM_Tutorial': Can't find file.
+[2022.04.26-13.30.06:920][ 65]LoadErrors: Failed to load /Game/InfiniteMatrix/Blueprints/GM_Tutorial.GM_Tutorial_C Referenced by WorldSettings_1
+[2022.04.26-13.30.06:959][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.04.26-13.30.08:440][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.30.08:481][ 65]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Maps/Game.TutorialMap_BuiltData
+[2022.04.26-13.30.08:909][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.04.26-13.30.08:922][ 65]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_TunnelSpawner_C /Game/InfiniteMatrix/Maps/Game.Game:PersistentLevel.BT_TunnelSpawner_6
+[2022.04.26-13.30.10:266][219]LogObjectTools: Deleting 1 worlds: /Game/InfiniteMatrix/Maps/Game.Game
+[2022.04.26-13.30.10:266][219]LogObjectTools: Currently 11 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.04.26-13.30.10:293][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.26-13.30.11:292][219]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.30.11:311][219]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Maps/Game.Game
+[2022.04.26-13.30.11:685][219]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.30.11:685][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.30.11:898][219]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.04.26-13.30.12:128][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.04.26-13.30.12:163][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.04.26-13.30.12:193][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.04.26-13.30.21:046][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.26-13.30.23:095][139]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.30.25:365][139]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/Drone_Skeleton.Drone_Skeleton
+	Asset Name: /Game/InfiniteMatrix/Meshes/Drone.Drone
+	Asset Name: /Game/InfiniteMatrix/Meshes/Drone_PhysicsAsset.Drone_PhysicsAsset
+[2022.04.26-13.30.27:078][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.26-13.30.27:112][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.04.26-13.30.27:144][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.04.26-13.30.27:176][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.26-13.30.27:205][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.26-13.30.32:880][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.26-13.30.35:909][623]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.30.37:433][623]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_02.SM_Hole_02
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_03.SM_Hole_03
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_04.SM_Hole_04
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Tunnel.SM_Tunnel
+[2022.04.26-13.30.39:738][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.04.26-13.30.39:765][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.26-13.30.39:793][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.04.26-13.30.39:822][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.26-13.30.39:850][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.26-13.30.39:880][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.04.26-13.30.39:910][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.26-13.33.00:531][419]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.26-13.33.00:551][419]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-13.33.56:079][834]Cmd: MODE GRID=0
+[2022.04.26-13.33.56:893][928]Cmd: MODE ROTGRID=0
+[2022.04.26-13.33.57:378][981]Cmd: MODE SCALEGRID=0
+[2022.04.26-13.35.35:441][ 75]LogBlueprint: Warning: [AssetLog] C:\Users\drago\Documents\GitHub\WraithDasher\WratihDasher\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2022.04.26-13.35.35:590][ 75]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-13.35.35:629][ 75]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.04.26-13.35.35:641][ 75]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.04.26-13.35.35:718][ 75]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.26-13.35.35:784][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.35.35:790][ 75]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.04.26-13.36.18:043][404]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2022.04.26-13.36.18:108][404]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2022.04.26-13.36.18:136][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.36.18:720][404]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.26-13.36.26:343][263]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.36.26:343][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.36.26:365][263]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.36.26:365][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.36.26:417][263]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.36.26:417][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.36.42:305][628]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2022.04.26-13.36.42:334][628]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2022.04.26-13.36.42:345][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.36.42:633][628]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.26-13.36.46:165][ 35]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.36.46:165][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.36.46:185][ 35]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.36.46:185][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.36.46:231][ 35]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.36.46:231][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.37.34:402][377]LogUObjectHash: Compacting FUObjectHashTables data took  10.37ms
+[2022.04.26-13.37.34:427][377]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/ThirdPersonExampleMap_Auto2AEEF3A3F48C37B18E8AD94B88AACB824.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.04.26-13.37.34:428][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.222
+[2022.04.26-13.37.34:428][377]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.222
+[2022.04.26-13.37.34:429][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.04.26-13.37.34:445][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.04.26-13.37.34:445][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.04.26-13.37.34:478][377]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/ThirdPersonCharacter_Auto2EBAEC8434FF415AE3F51EEAAAF626432.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2022.04.26-13.37.34:479][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.04.26-13.37.34:479][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.04.26-13.37.34:543][377]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/BP_Player_Auto2E433F3534F831E98D43E039DC666CF8A.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto2.uasset'
+[2022.04.26-13.37.34:546][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Restart] ([2] browsable assets)...
+[2022.04.26-13.37.34:546][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Restart]
+[2022.04.26-13.37.34:554][377]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/WBP_Restart_Auto2282C93DB47A3CCB63E60C09BD723C9E7.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto2.uasset'
+[2022.04.26-13.37.34:555][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/Bullet] ([2] browsable assets)...
+[2022.04.26-13.37.34:565][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/Bullet.Bullet]
+[2022.04.26-13.37.34:565][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/Bullet]
+[2022.04.26-13.37.34:605][377]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Bullet_Auto270F3B7654194E1A485B8CFA2F1A4C45D.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/Bullet_Auto2.uasset'
+[2022.04.26-13.37.34:605][377]LogFileHelpers: Auto-saving content packages took 0.179
+[2022.04.26-13.38.20:955][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.26-13.38.31:259][600]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.38.31:259][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.38.31:272][600]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.38.31:272][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.38.31:340][600]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.38.31:340][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.38.42:180][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2022.04.26-13.38.42:216][456]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2022.04.26-13.38.42:227][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.38.42:500][456]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.26-13.38.46:176][880]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.38.46:176][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.38.46:193][880]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.38.46:194][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.38.46:239][880]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.38.46:239][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.38.55:448][627]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-13.38.55:468][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.39.22:954][527]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2022.04.26-13.39.26:222][902]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-13.39.26:367][902]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2022.04.26-13.41.19:904][  7]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.41.19:915][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.41.20:173][  7]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.26-13.41.54:061][652]Cmd: TRANSACTION UNDO
+[2022.04.26-13.41.54:061][652]LogEditorTransaction: Undo Translate Bone
+[2022.04.26-13.41.54:203][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.41.54:204][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.42.11:765][529]Cmd: TRANSACTION UNDO
+[2022.04.26-13.42.11:765][529]LogEditorTransaction: Undo Translate Bone
+[2022.04.26-13.42.11:907][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.42.11:908][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.42.25:630][954]Cmd: TRANSACTION UNDO
+[2022.04.26-13.42.25:630][954]LogEditorTransaction: Undo Rotate Bone
+[2022.04.26-13.42.25:764][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.42.25:764][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.42.26:560][999]Cmd: TRANSACTION UNDO
+[2022.04.26-13.42.26:560][999]LogEditorTransaction: Undo Translate Bone
+[2022.04.26-13.42.26:693][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.42.26:694][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.44.52:492][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2022.04.26-13.44.52:498][423]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/BS_JogB9252A2E4BE65F62645D638FCD2969C6.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset'
+[2022.04.26-13.44.52:518][423]AssetCheck: New page: Asset Save: BS_Jog
+[2022.04.26-13.44.52:518][423]LogContentValidation: Display: Validating BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.44.53:655][540]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.44.53:655][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.44.53:702][540]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.44.53:702][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.45.19:328][301]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.45.19:337][301]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.45.19:569][301]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.26-13.46.57:495][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2022.04.26-13.46.57:497][557]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/BS_Jog83D2BC0A4609DFA86E870CAD5CE49723.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset'
+[2022.04.26-13.46.57:517][557]AssetCheck: New page: Asset Save: BS_Jog
+[2022.04.26-13.46.57:517][557]LogContentValidation: Display: Validating BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.46.57:940][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2022.04.26-13.46.57:942][605]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/BS_Jog0377514746E315447E10F5AC55804583.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset'
+[2022.04.26-13.46.57:960][605]AssetCheck: New page: Asset Save: BS_Jog
+[2022.04.26-13.46.57:960][605]LogContentValidation: Display: Validating BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.46.58:160][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2022.04.26-13.46.58:162][621]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/BS_Jog5E38564244DED1EA03BF529C5F390D7B.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/BS_Jog.uasset'
+[2022.04.26-13.46.58:192][621]AssetCheck: New page: Asset Save: BS_Jog
+[2022.04.26-13.46.58:192][621]LogContentValidation: Display: Validating BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.47.28:297][846]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/UE4_Mannequin_Skeleton3CD3A05D469F1D11FA609CA1C51FF74D.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.04.26-13.47.28:317][846]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2022.04.26-13.47.28:317][846]LogContentValidation: Display: Validating Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.04.26-13.48.13:820][246]LogUObjectHash: Compacting FUObjectHashTables data took  11.13ms
+[2022.04.26-13.48.13:828][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.091
+[2022.04.26-13.48.13:829][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint] ([2] browsable assets)...
+[2022.04.26-13.48.13:842][246]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint]
+[2022.04.26-13.48.13:842][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint]
+[2022.04.26-13.48.13:899][246]LogSavePackage: Moving '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/UE4ASP_HeroTPP_AnimBlueprint_Aut0FA98FF348FA5B0DD1ABC68C21B1D8C5.tmp' to '../../../../Users/drago/Documents/GitHub/WraithDasher/WratihDasher/Saved/Autosaves/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint_Auto3.uasset'
+[2022.04.26-13.48.13:900][246]LogFileHelpers: Auto-saving content packages took 0.071
+[2022.04.26-13.49.01:720][747]LogSlate: Window 'Create New Animation Object' being destroyed
+[2022.04.26-13.49.06:214][252]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/NewAnimation.NewAnimation
+[2022.04.26-13.49.09:178][492]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/NewAnimation.NewAnimation
+[2022.04.26-13.49.32:630][561]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2022.04.26-13.49.34:040][561]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-13.49.36:660][561]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.49.36:660][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.49.36:707][561]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.49.36:708][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.49.36:726][561]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.49.36:726][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.49.36:739][561]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AnimStarterPack/NewAnimation.NewAnimation
+[2022.04.26-13.49.37:652][561]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2022.04.26-13.50.31:336][470]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2022.04.26-13.50.31:345][470]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-13.50.31:602][470]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.26-13.51.15:263][338]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.51.15:263][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.51.15:308][338]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-13.51.15:308][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-13.51.17:973][591]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-13.51.17:978][591]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.26-13.51.17:979][591]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2022.04.26-13.51.18:045][591]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2022.04.26-13.51.18:071][591]LogPlayLevel: [PlayLevel] Compiling WBP_Restart before play...
+[2022.04.26-13.51.18:072][591]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.26-13.51.18:072][591]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.04.26-13.51.19:161][591]LogWindows: Error: === Critical error: ===
+[2022.04.26-13.51.19:161][591]LogWindows: Error: 
+[2022.04.26-13.51.19:161][591]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/BlueprintGeneratedClass.cpp] [Line: 228] 
+[2022.04.26-13.51.19:161][591]LogWindows: Error: UBlueprintGeneratedClass::GetAuthoritativeClass: ClassGeneratedBy is null. class '/Engine/Transient.DEADCLASS_BP_TunnelSpawner_C_8'
+[2022.04.26-13.51.19:161][591]LogWindows: Error: 
+[2022.04.26-13.51.19:161][591]LogWindows: Error: 
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff833b0f6dc KERNELBASE.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff72110216 UE4Editor-Core.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff72114218 UE4Editor-Core.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff71e3242d UE4Editor-Core.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff730a4f3c UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6cbfc578 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6cc2c52d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6cc8a3ed UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6ccb59de UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6924dff8 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff692345b4 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff692375b4 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff5bd7f8f5 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6922ba25 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6e025827 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6dfcc02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff6dfcbd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff70bf00de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff70d6aed7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff70d72a9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff70d76d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff70d765f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff707d0c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007fff710d2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff6bee587a0 UE4Editor.exe!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff6bee70fcc UE4Editor.exe!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff6bee710ba UE4Editor.exe!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff6bee740dd UE4Editor.exe!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff6bee85984 UE4Editor.exe!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff6bee8853a UE4Editor.exe!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff8356c244d KERNEL32.DLL!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: [Callstack] 0x00007ff83668df88 ntdll.dll!UnknownFunction []
+[2022.04.26-13.51.19:161][591]LogWindows: Error: 
+[2022.04.26-13.51.19:170][591]LogExit: Executing StaticShutdownAfterError
+[2022.04.26-13.51.19:178][591]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.04.26-13.51.19:178][591]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.04.26-13.51.19:178][591]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.04.26-13.51.19:189][591]Log file closed, 04/26/22 08:51:19
